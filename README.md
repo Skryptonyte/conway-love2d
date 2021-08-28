@@ -29,7 +29,11 @@ pop science space. This is a simple application of tweening ang timers and gives
  You can pause the game to alter the grid using a mouse. Some hotkeys are also available to alter the rules of the game a bit.
 
 Note: This is a reupload from last year to my personal repository. At the time of upload, this works with love2D 11.3.
- 
+
+
+To run this app:
+
+``` <love2d directory>/love.exe <project_directory> ```
 == Bibliography
 
 * push library: https://github.com/Ulydev/push
