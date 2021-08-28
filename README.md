@@ -33,7 +33,11 @@ Note: This is a reupload from last year to my personal repository. At the time o
 
 To run this app:
 
-``` <love2d directory>/love.exe <project_directory> ```
+``` 
+
+<love2d directory>/love.exe <project_directory> 
+```
+
 == Bibliography
 
 * push library: https://github.com/Ulydev/push
